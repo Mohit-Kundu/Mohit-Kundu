@@ -13,3 +13,7 @@ A Self-Driven and Goal-Oriented developer majoring in Computer Science, with a k
 -  🚀 **Goals for 2021: Contributing and Working on more Open Source Projects**
 -  ✨ **Hobbies: Traveling 🗼, Photography 📷, Gaming 🕹️, Playing Guitar 🎸**
 
+### :zap: Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
