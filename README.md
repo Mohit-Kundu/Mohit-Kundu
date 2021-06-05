@@ -18,7 +18,7 @@ A Self-Driven and Goal-Oriented developer majoring in Computer Science, with a k
 
 <br /><br /><br /><br />
 ## My Top Languages <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Kundu&theme=synthwave)](https://github.com/Mohit-Kundu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Kundu&theme=onedark&layout=compact)](https://github.com/Mohit-Kundu/github-readme-stats)
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
