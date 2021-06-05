@@ -14,7 +14,7 @@ A Self-Driven and Goal-Oriented developer majoring in Computer Science, with a k
 -  ✨ **Hobbies: Traveling 🗼, Photography 📷, Gaming 🕹️, Playing Guitar 🎸**
 
 ---
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-mohit-kundu.vercel.app/api?username=Mohit-Kundu&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-mohit-kundu.vercel.app/api?username=Mohit-Kundu&show_icons=true&hide_border=true&theme=radical" />
 ---
 
 ---
