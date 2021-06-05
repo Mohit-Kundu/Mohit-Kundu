@@ -13,13 +13,15 @@ A Self-Driven and Goal-Oriented developer majoring in Computer Science, with a k
 -  🚀 **Goals for 2021: Contributing and Working on more Open Source Projects**
 -  ✨ **Hobbies: Traveling 🗼, Photography 📷, Gaming 🕹️, Playing Guitar 🎸**
 
----
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-mohit-kundu.vercel.app/api?username=Mohit-Kundu&show_icons=true&hide_border=true&theme=radical" />
----
+## My Github Stats
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-mohit-kundu.vercel.app/api?username=Mohit-Kundu&show_icons=true&hide_border=true&theme=tokyonight" /><br /><br /><br /><br />
 
----
+<br /><br /><br /><br />
+## My Top Languages <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Kundu&theme=synthwave)](https://github.com/Mohit-Kundu/github-readme-stats)
+
 ### :zap: Recent GitHub Activity
+<details>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
----
-
+</details>
