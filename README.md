@@ -22,4 +22,3 @@ A Self-Driven and Goal-Oriented developer majoring in Computer Science, with a k
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
