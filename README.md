@@ -20,3 +20,4 @@ A Self-Driven and Goal-Oriented developer majoring in Computer Science, with a k
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Kundu&theme=onedark&layout=compact)](https://github.com/Mohit-Kundu/github-readme-stats)
 
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
