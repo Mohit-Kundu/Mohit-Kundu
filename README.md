@@ -11,7 +11,6 @@ A Self-Driven and Goal-Oriented developer majoring in Computer Science, with a k
 -  👨‍💻 **Aspiring AI, ML Developer**
 -  🔗 **Blockchain Enthusiast**
 -  🚀 **Goals for 2021: Contributing and Working on more Open Source Projects**
--  ✨ **Hobbies: Traveling 🗼, Photography 📷, Gaming 🕹️, Playing Guitar 🎸**
 
 ## My Github Stats
 <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-mohit-kundu.vercel.app/api?username=Mohit-Kundu&show_icons=true&hide_border=true&theme=tokyonight" />
