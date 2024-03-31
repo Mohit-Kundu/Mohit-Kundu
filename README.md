@@ -6,11 +6,8 @@
 
 
 ## About Me
-A Self-Driven and Goal-Oriented developer majoring in Computer Science, with a keen interest in the fields of **Artificial Intelligence, Machine Learning** and **Blockchain**. Currently seeking Opportunities to expand my knowledge and gain expertise in the field of Computer Science.
+A Self-Driven and Goal-Oriented developer majoring in Computer Science, with a keen interest in the fields of **Date Science, Artifical Intelligence** and **Machine Learning**. Currently seeking Opportunities to expand my knowledge and gain expertise in the field of Computer Science.
 
--  👨‍💻 **Aspiring AI, ML Developer**
--  🔗 **Blockchain Enthusiast**
--  🚀 **Goals for 2021: Contributing and Working on more Open Source Projects**
 
 ## My Github Stats
 <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-mohit-kundu.vercel.app/api?username=Mohit-Kundu&show_icons=true&hide_border=true&theme=tokyonight" />
